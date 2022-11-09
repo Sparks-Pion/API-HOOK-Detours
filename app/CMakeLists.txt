@@ -1,0 +1,3 @@
+add_subdirectory(mainapp)
+add_subdirectory(testapp)
+add_subdirectory(injectapp)
